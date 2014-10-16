@@ -4,4 +4,3 @@ ChrootDirectory %h
 X11Forwarding no
 AllowTcpForwarding no
 ForceCommand internal-sftp
-UsePrivilegeSeparation sandbox
